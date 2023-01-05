@@ -1,0 +1,20 @@
+#fftest
+# humanstxt.org/
+# The humans responsible & technology colophon
+#we have responsibilities
+# TEAM
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+anami
+    <name>
+anamsh maneno
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+
+# first test
+# human si a social being

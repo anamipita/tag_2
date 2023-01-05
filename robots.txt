@@ -1,0 +1,6 @@
+#masaa
+# www.robotstxt.org/
+kunashida
+#ed to serve humansAllow crawling of all content
+User-agent: *
+Disallow:
